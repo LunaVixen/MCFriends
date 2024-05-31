@@ -1,0 +1,4 @@
+name: MCFriends
+version: '${project.version}'
+main: mcfriends.mcfriends.MCFriends
+api-version: '1.20'
